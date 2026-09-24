@@ -1,0 +1,7 @@
+# SkeemNode Wokwi Simulator Config
+# Target: ESP32 DevKit v4
+
+[wokwi]
+version = 1
+firmware = "sketch.ino"
+elf = "build/sketch.elf"
